@@ -423,22 +423,22 @@ img.alignright,
 	display: none;
 }
 .social-icons .fb {
-	background: url(images/icon-fb.png) no-repeat center center;
+	background: url(./images/icon-fb.png) no-repeat center center;
 }
 .social-icons .tw {
-	background: url(images/icon-tw.png) no-repeat center center;
+	background: url(./images/icon-tw.png) no-repeat center center;
 }
 .social-icons .gp {
-	background: url(images/icon-gp.png) no-repeat center center;
+	background: url(./images/icon-gp.png) no-repeat center center;
 }
 .social-icons .in {
-	background: url(images/icon-in.png) no-repeat center center;
+	background: url(./images/icon-in.png) no-repeat center center;
 }
 .social-icons .tube {
-	background: url(images/icon-youtube.png) no-repeat center center;
+	background: url(./images/icon-youtube.png) no-repeat center center;
 }
 .social-icons .insta {
-	background: url(images/icon-insta.png) no-repeat center center;
+	background: url(./images/icon-insta.png) no-repeat center center;
 }
 .phoneno img {
 	margin-right: 5px;
@@ -668,7 +668,7 @@ body.enableslide .header {
 .toggle a {
 	width: 100%;
 	color: #ffffff;
-	background: url(images/mobile_nav_right.png) no-repeat right center #000000;
+	background: url(./images/mobile_nav_right.png) no-repeat right center #000000;
 	padding: 10px 10px;
 	font-size: 16px;
 	text-align: left;
@@ -1493,7 +1493,7 @@ nav#nav-below {
 	margin-top: 15px;
 }
 .slider-wrapper {
-	background: url(images/loading.gif) no-repeat center center #fff;
+	background: url(./images/loading.gif) no-repeat center center #fff;
 	min-height: 500px;
 }
 /* ============= Others ============ */
@@ -1805,7 +1805,7 @@ body.enableslide .home_section1_content {
 	font-weight: 600;
 	line-height: 40px;
 	list-style: none;
-	background: url(images/disc-list.png) left top no-repeat;
+	background: url(./images/disc-list.png) left top no-repeat;
 	padding: 0 0 0 60px;
 	margin: 0 0 12px 0;
 }
@@ -2238,7 +2238,7 @@ body.enableslide .home_section1_content {
 	background: #222 !important;
 }
 .angle-right {
-	background: url(images/icon-arrow.png) center center no-repeat;
+	background: url(./images/icon-arrow.png) center center no-repeat;
 	width: 9px;
 	height: 12px;
 	position: absolute;
@@ -2353,7 +2353,7 @@ body.enableslide .home_section1_content {
 }
 .footerinfoarea {
 	padding: 25px 0;
-	background: url(images/footer-bg-img.jpg) center top no-repeat;
+	background: url(./images/footer-bg-img.jpg) center top no-repeat;
 	background-size: cover;
 }
 .footerinfoarea .logo {

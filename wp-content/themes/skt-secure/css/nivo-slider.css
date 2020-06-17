@@ -33,7 +33,7 @@ a.nivo-nextNav {right:1%;background-position:-17px 0 !important;}
 .nivo-controlNav a {cursor:pointer;}
 .nivo-controlNav a {border: 0 none; display:inline-block; border:2px solid #ffffff; background-color:transparent; height: 18px; margin:4px; text-indent: -9999px; width:18px; border-radius:100%; -moz-border-radius:100%; -webkit-border-radius:100%;}
 .nivo-controlNav a.active {font-weight:bold; background-position: 0 -21px; background-color:#ffffff; border:2px solid #ffffff;}
-.nivo-directionNav a{border: 0 none; display: block; height: 26px; text-indent: -9999px; transition: all 200ms ease-in-out 0s; width: 33px; background:url(../images/slide-nav.png) no-repeat left top;}
+.nivo-directionNav a{border: 0 none; display: block; height: 26px; text-indent: -9999px; transition: all 200ms ease-in-out 0s; width: 33px; background:url(./../images/slide-nav.png) no-repeat left top;}
 /* Caption styles */
 .nivo-caption {position: absolute; left: 6.7%; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; z-index: 999; padding: 0; overflow: hidden; display: none; width: 45%; margin: 0 auto; top: 50%; transform: translateY(-50%); -webkit-transform: translateY(-50%); -moz-transform: translateY(-50%);}
 
